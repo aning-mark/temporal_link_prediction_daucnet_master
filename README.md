@@ -1,1 +1,1 @@
-# tempora_link_prediction_daucnet_master
+# temporal_link_prediction_daucnet_master
